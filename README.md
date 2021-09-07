@@ -15,6 +15,7 @@ We're going to use the historical Bitcoin price data and Bitcoin block reward si
 
 > **Note:** This is not a financial advice. I am not responsible if you make financial decisions based on this model's predictions. Time Series forecasting for market prices is terrible.
 
+<a href="https://colab.research.google.com/github/RohitGanji/bitcoin-price-prediction/blob/main/Bitcoin_Price_Prediction_using_Multivariate_Time_Series_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Prediction
 ![](prediction.png)

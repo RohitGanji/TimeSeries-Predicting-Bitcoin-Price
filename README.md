@@ -17,4 +17,4 @@ We're going to use the historical Bitcoin price data and Bitcoin block reward si
 
 
 ## Prediction
-![](predictions.png)
+![](prediction.png)

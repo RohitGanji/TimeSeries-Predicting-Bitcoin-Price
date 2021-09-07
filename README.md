@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction using Block Rewards and Historical Price Data
+# Bitcoin Price Prediction using Multivariate Time Series Data
 
 The goal of this notebook is to predict the Bitcoin Price 💰📈
 <br><br>

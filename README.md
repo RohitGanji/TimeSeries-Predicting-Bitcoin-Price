@@ -14,3 +14,7 @@ The goal of this notebook is to predict the Bitcoin Price 💰📈
 We're going to use the historical Bitcoin price data and Bitcoin block reward size as our dataset.
 
 > **Note:** This is not a financial advice. I am not responsible if you make financial decisions based on this model's predictions. Time Series forecasting for market prices is terrible.
+
+
+## Prediction
+![](predictions.png)
